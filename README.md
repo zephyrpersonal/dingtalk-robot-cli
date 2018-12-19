@@ -77,5 +77,5 @@ dingtalk-robot-cli feedCard 'GoBaidu;http://baidu.com;http://baidu.com/logo.png'
 ## Docker
 
 ```bash
-docker run --rm dingtalk-robot-cli <CMD>
+docker run --rm zephyrdev/dingtalk-robot-cli <CMD>
 ```
