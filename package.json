@@ -1,6 +1,6 @@
 {
   "name": "dingtalk-robot-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "easy use to sending message to dingtalk in one line command",
   "main": "index.js",
   "repository": "git@github.com:zephyrpersonal/dingtalk-robot-cli.git",
