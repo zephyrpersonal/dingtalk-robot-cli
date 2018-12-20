@@ -1,3 +1,5 @@
+#! /usr/local/env node
+
 const assert = require('assert')
 const program = require('commander')
 
